@@ -3,3 +3,5 @@ this is requirement
 chat 
 color
 typing
+themes
+wallpaper
